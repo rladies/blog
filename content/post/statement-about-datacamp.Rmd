@@ -67,7 +67,9 @@ Let's keep working on a safe community for everyone!
 
 + [Don’t Take My DataCamp Course, There Must be Consequences for Sexual Assault](https://noamross.github.io/datacamp-sexual-assault/)
 
-{{< tweet 1116709899159916544 >}}
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1116709899159916544')
+```
 
 + [A Note to Our Community On How To Hide Your Content From Search Engines](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
 
@@ -79,4 +81,6 @@ Let's keep working on a safe community for everyone!
 
 + [Datacamp took 521 days to announce an unwanted physical contact (Harassment) event](https://www.reddit.com/r/rstats/comments/barrcd/datacamp_took_521_days_to_announce_an_unwanted/)
 
-{{< tweet 1116743032492253185 >}}
+```{r echo=FALSE}
+blogdown::shortcode('tweet', '1116743032492253185')
+```
