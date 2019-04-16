@@ -61,7 +61,7 @@ Let's keep working on a safe community for everyone!
 
 -- _The R-Ladies Global Leadership Team (Gabriela de Queiroz, Hannah Frick, Erin LeDell, and Claudia Vitolo) with Laura Ación and Maëlle Salmon (members of the [R-Ladies Global Team](https://rladies.org/about-us/team/))_
 
-# Other posts and tweets from the community about DataCamp
+# [Update] Other posts and tweets from the community about DataCamp
 
 + [DataCamp Sponsorship of satRday Events](https://satrdays.org/blog/2019/04/14/datacamp-sponsorship/)
 
@@ -78,8 +78,6 @@ blogdown::shortcode('tweet', '1116709899159916544')
 + [The Worst Behavior](http://third-bit.com/2019/04/05/the-worst-behavior.html)
 
 + [An Exchange with DataCamp](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html)
-
-+ [Datacamp took 521 days to announce an unwanted physical contact (Harassment) event](https://www.reddit.com/r/rstats/comments/barrcd/datacamp_took_521_days_to_announce_an_unwanted/)
 
 ```{r echo=FALSE}
 blogdown::shortcode('tweet', '1116743032492253185')
