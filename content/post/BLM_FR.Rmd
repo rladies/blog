@@ -28,7 +28,7 @@ Pour les personnes de notre communauté qui souffrent actuellement, nous
 sommes à vos côtés, nous écoutons vos voix, mais nous savons que ce
 n'est pas suffisant afin de provoquer le changement dont nous avons
 besoin. Le travail de déconstruction du système d'injustices est lent et
-difficile, et nous savons que certain*e*s d'entre vous êtes portez un
+difficile, et nous savons que certain.e.s d'entre vous êtes portez un
 fardeau plus important que d'autres. Il n'y a pas de mots pour l'alléger.
 
 ## Un message de Forwards :
@@ -37,7 +37,7 @@ Forwards considère que les personnes noires sont souvent absentes ou
 négligées dans les activités principales de la communauté R. Nous
 reconnaissons que beaucoup sont déçus par le progrès lent ou l'absence
 d'action apparente. Alors que l'actualité nous rappelle que les
-injustices envers les racisé*e*s les affaiblissent, c'est notre rôle de
+injustices envers les racisé.e.s les affaiblissent, c'est notre rôle de
 créer un espace pour les personnes noires, indigènes et racisé.e.s pour
 développer leurs talents en tant que programmeurs en R et leaders de
 notre communauté.
