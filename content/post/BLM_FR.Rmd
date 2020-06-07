@@ -42,7 +42,7 @@ créer un espace pour les personnes noires, indigènes et racisé.e.s pour
 développer leurs talents en tant que programmeurs en R et leaders de
 notre communauté.
 
-Nous faisons de petites actions, mais espérons qu'elles se seront
+Nous faisons de petites actions, mais espérons qu'elles seront
 bénéfiques, par exemple :
 
 - Mettre en valeur le travail de personnes de groupes sous-représentés
@@ -74,7 +74,7 @@ manière générale dans la communauté R.
 
 ## Un message de R-ladies :
 
-Même si la mission de R-ladies et d'améliorer la diversité de genre dans
+Même si la mission de R-Ladies et d'améliorer la diversité de genre dans
 la communauté R, nous considérons également les difficultés que les
 personnes noires subissent, et l'effet de l'intersectionnalité lorsqu'un
 membre s'identifie avec plusieurs groupes sous-représentés. R-ladies
@@ -91,8 +91,7 @@ d'esapce de travail pour plus d'équité et de justice.
 
 - Nous allons incorporer dans notre site web une page dédiée de
 resources et d'informations pour les actions concrètes que nous, en tant
-qu'organisation et en tant qu'individus nous pouvons faire pour soutenir
-#BlackLivesMatter et d'autres mouvements de justice sociale.
+qu'organisation et en tant qu'individus nous pouvons faire pour soutenir #BlackLivesMatter et d'autres mouvements de justice sociale.
 
 - Nous allons améliorer la représentation éthnique et raciale de
 l'équipe organisatrice de R-ladies Global de telle sorte que toutes les
