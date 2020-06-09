@@ -14,7 +14,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-We are extremely excited to announce that organizers from AfricaR, the MiR’s community, and R-Ladies will facilitate the online tutorial sessions for useR! 2020. In addition to taking deep dives into R topics from the tutorial experts, useR! 2020 attendees will have the opportunity to meet inclusive community organizers and learn more about the communities they serve. We hope to increase the representation in attendance of members from these inclusive communities within the tutorial sessions. 
+We are extremely excited to announce that organizers from [AfricaR](https://africa-r.org), the [MiR’s community](https://medium.com/@doritolay/introducing-mir-a-community-for-underrepresented-users-of-r-7560def7d861), and [R-Ladies](https://rladies.org/) will facilitate the online tutorial sessions for useR! 2020. In addition to taking deep dives into R topics from the tutorial experts, useR! 2020 attendees will have the opportunity to meet inclusive community organizers and learn more about the communities they serve. We hope to increase the representation in attendance of members from these inclusive communities within the tutorial sessions. 
 
 Our communities
 
@@ -58,7 +58,7 @@ Some of the R-Ladies Global initiatives to support its community are:
 * R-Ladies community Slack: A safe space for people of genders currently underrepresented in the R community to network and to share. Sign-up to join the slack group here: https://rladies-community-slack.herokuapp.com/
 * R-Ladies directory: A directory of R-Ladies speakers for conferences and events. See https://rladies.org/directory/ if you want to be listed or browse it.
 
-We thank all tutorial leads that graciously agreed to teach their tutorials online. useR! 2020 tutorials will be held for free in July featuring outstanding tutorial leads from around the world. Check out the tutorials page to see all tutorials that will be held in July. 
+We thank all tutorial leads that graciously agreed to teach their tutorials online. useR! 2020 tutorials will be held for free in July featuring outstanding tutorial leads from around the world. Check out the [tutorials](https://docs.google.com/spreadsheets/d/1qaQ6dARwMjAJ2oG0KZwzMvY4fJmXsSz_i-dPcg3dUmE/edit?usp=sharing) page to see all tutorials that will be held in July. 
 
 If you are an AfricaR RUG organizer who wants to host one of these tutorials, please reach out to africarusers@gmail.com, or DM Anicet Ebou (@anicetebou) on twitter or in the R users group organizer Slack. If you are an R-Ladies chapter organizer who wants to host a tutorial, you will find further information on how to do this in R-Ladies Global organizer Slack.
  
