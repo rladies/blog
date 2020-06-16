@@ -29,37 +29,31 @@ besoin. Le travail visant à briser les systèmes d'injustice est lent et diffic
 
 ## Un message de Forwards :
 
-Forwards considère que les personnes noires sont souvent absentes ou
+Forwards reconnaît que les personnes noires sont souvent absentes ou
 négligées dans les activités principales de la communauté R. Nous
 reconnaissons que beaucoup sont déçus par le progrès lent ou l'absence
-d'action apparente. Alors que l'actualité nous rappelle que les
-injustices raciales les affaiblissent, c'est notre rôle de
-créer un espace pour les personnes noires, indigènes et de couleur pour
-développer leurs talents en tant que programmeurs en R et leaders de
-notre communauté.
+d'action apparente. À un moment où l'actualité nous rappelle que l'injustice raciale tire les gens vers le bas, c'est notre rôle de
+créer un espace pour les personnes noires, indigènes et de couleur
+afin de développer leurs talents en tant que programmeurs en R et leaders communautaires.
 
-Nous faisons de petites actions, mais espérons qu'elles seront
-bénéfiques, par exemple :
+Nous travaillons à travers de petites actions, qui nous espérons ont un impact, telles que :
 
 - Mettre en valeur le travail de personnes de groupes sous-représentés
 et partager des informations sur des événements clés et des opportunités
 sur [\@R_Forwards Twitter](https://twitter.com/r_forwards).
 
-- Soutenant les organisateurs de conférences useR! avec des bourses
-liées à la diversité
+- Soutenir les organisateurs de la conference useR! ave le programme de bourses pour la diversité
 
-- Recommandant des personnes de groupes sous-représentés pour des rôles
-tels qu'orateur en conférence, membres de comités, président de séances,
+- Recommander des personnes de groupes sous-représentés pour des rôles
+tels que conférenciers, membres de comités, président de séances,
 etc.
 
-- Soutenant l'équipe organisatrice de [AfricaR](https://africa-r.org/).
+- Soutenir l'équipe organisatrice de [AfricaR](https://africa-r.org/).
 
-- Réalisant des groupes divers avec nos [ateliers pour femmes et
+- Atteindre un groupe diversifié avec nos ateliers pour les femmes et filles avec nos [ateliers pour femmes et
 filles](https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/)
-et ateliers dans des régions mal déservies (par exemple
-[Cuba](https://forwards.github.io/blog/2018/07/07/havanar/), [l'Afrique
-du
-Sud](https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/)).
+et ateliers dans des régions mal desservies (par exemple
+[Cuba](https://forwards.github.io/blog/2018/07/07/havanar/), [le Sud de l'Afrique](https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/)).
 
 Nous compernons qu'il y aurait beaucoup plus à faire pour soutenir et
 permettre la représentation des personnes noires, indigènes et de couleur
