@@ -78,22 +78,14 @@ d'espace de travail pour plus d'équité et de justice.
 
 - Nous améliorerons la représentation ethnique et raciale au sein de l'équipe organisatrice de R-ladies Global afin que les voix de toutes les minorités intersectionnelles soient mieux représentées.
 
-- Nous allons lancer des programmes pour soutenir nos membres (par
-exemple par des bourses de voyages, des bons pour des livres, des
-inscriptions pédagogiques) grâce aux resources financières données à
-R-Ladies, nous allons donner 50% de ces financements à des membres avec
-des identités intersectionnelles et la moitié de ces derniers sera
-dirigée de manière exclusive au membres noirs.
+- Nous lancerons un certain nombre de programmes pour soutenir nos membres (par exemple des bourses de voyage, des bons pour des livres, des inscriptions pédagogiques ou abonnements éducatifs) grâce aux ressources financières données à R-Ladies, nous consacrerons 50% de ces financements aux membres de la communauté avec des identités intersectionnelles et la moitié de ceux-ci seront destinés exclusivement aux membres noirs.
 
 ## Déclaration finale
 
-Nous allons travailler de manière plus intensive pour écouter et
-amplifier les voix des membres de minorités dans nos communautés partout
-dans le monde. Nous sommes investi dans le travail permanent de
-déconstruire les systèmes d'injustices et faire de la place à celles et
-ceux qui sont actuellement en train de souffrir à cause de ces systèmes
-afin qu'ils puissent pleinement participer et occuper des postes à
-responsabilité. Nous pressons chacun dans la communauté R à faire de même.
+Nous travaillerons plus dur ou intensivement pour écouter et amplifier les voix des membres issus de minorités de nos communautés respectives partout dans le monde entier.
+Nous sommes investi·e·s dans le travail permanent et continu de briser les systèmes d'injustices; et de faire en sorte que ceux qui souffrent actuellement à cause de ces systèmes participent pleinement et occupent des postes de
+responsabilité. Nous invitons, pressons chacun dans la communauté R à faire de même.
+Nous pressons chacun dans la communauté R à faire de même.
 
 Équipe principale de Forwards : Heather Turner, Noa Tamir, Tatjana
 Kecojevic, Emily Dodwell, Kevin O’Brien, Julie Josse.
@@ -102,4 +94,4 @@ Kecojevic, Emily Dodwell, Kevin O’Brien, Julie Josse.
 
 Organisatrices (actuelles et passées) d'antennes locales de R-Ladies et
 autres fortement impliquées dans R-ladies et dans les communautés
-R-ladies: gwynn sturdevant, Paola Corrales, Paloma Rojas-Saunero, Riva Quiroga, Roxana Noelia Villafañe, Monica L. Alonso, Danielle Navarro, Mine Çetinkaya-Rundel, Sara Mortara, Genelle Denzin, Divya Seernani, Elisa Schneider, Kyla McConnel, Ana Laura Diedrichs, Liza Dosso, Mariel Lovatto, María Nanton, Ludmila Janda, Hazel Kavili, Ines Teacã, Lucía Rodríguez Planes, Andrea Sánchez-Tapia, Disha Patil, Ayanthi Gunawardana, Jan Strappa, Kaelen Medeiros, Vebashini Naidoo, Emily Dodwell, Julia Silge, Marcela Alfaro, Jenny Bryan, Lucy D’Agostino McGowan, Alison Hill, Andrea Gómez Vargas, Angela Li, Beatriz Milz, Haydée Svab, Tijana Blagojev, Katarina Kosmina, Jovana Savic.
+R-Ladies: gwynn sturdevant, Paola Corrales, Paloma Rojas-Saunero, Riva Quiroga, Roxana Noelia Villafañe, Monica L. Alonso, Danielle Navarro, Mine Çetinkaya-Rundel, Sara Mortara, Genelle Denzin, Divya Seernani, Elisa Schneider, Kyla McConnel, Ana Laura Diedrichs, Liza Dosso, Mariel Lovatto, María Nanton, Ludmila Janda, Hazel Kavili, Ines Teacã, Lucía Rodríguez Planes, Andrea Sánchez-Tapia, Disha Patil, Ayanthi Gunawardana, Jan Strappa, Kaelen Medeiros, Vebashini Naidoo, Emily Dodwell, Julia Silge, Marcela Alfaro, Jenny Bryan, Lucy D’Agostino McGowan, Alison Hill, Andrea Gómez Vargas, Angela Li, Beatriz Milz, Haydée Svab, Tijana Blagojev, Katarina Kosmina, Jovana Savic.
