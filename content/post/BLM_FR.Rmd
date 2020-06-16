@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 En tant qu'organisations dédiées à augmenter la diversité et
-l'intégration de tous dans nos communautés, nous soutenons #BlackLivesMatter et sommes du côté de ceux qui demandent justice face à
+l'intégration de tous dans nos communautés, nous soutenons #BlackLivesMatter et rejoignons ceux qui demandent justice face à
 l'oppression systémique. Le racisme généralisé affecte la participation
 de personnes noires dans notre société. Les événements en cours aux
 États-unis sont à l'image de ce qui s'est produit et continue de se
