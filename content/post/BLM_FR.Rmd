@@ -18,7 +18,7 @@ En tant qu'organisations dédiées à augmenter la diversité et
 l'intégration de tous dans nos communautés, nous soutenons #BlackLivesMatter et rejoignons ceux qui demandent justice face à
 l'oppression systémique. Le racisme omniprésent affecte négativement la participation
 de personnes noires dans notre société. Les événements en cours aux États-Unis font écho à ce qui s'est produit et continue de se produire pour les personnes marginalisées (ou réduites à être des minorités) à travers le monde. 
-rassemblons des ressources et prenons des mesures pour amplifier la
+Nous rassemblons des ressources et prenons des mesures pour amplifier la
 voix des personnes noires, indigènes et de couleur dans la communauté R
 maintenant et dans le futur.
 
@@ -42,7 +42,7 @@ Nous travaillons à travers de petites actions, qui nous espérons ont un impact
 et partager des informations sur des événements clés et des opportunités
 sur [\@R_Forwards Twitter](https://twitter.com/r_forwards).
 
-- Soutenir les organisateurs de la conference useR! ave le programme de bourses pour la diversité
+- Soutenir les organisateurs de la conference useR! avec le programme de bourses pour la diversité
 
 - Recommander des personnes de groupes sous-représentés pour des rôles
 tels que conférenciers, membres de comités, président de séances,
@@ -50,7 +50,7 @@ etc.
 
 - Soutenir l'équipe organisatrice de [AfricaR](https://africa-r.org/).
 
-- Atteindre un groupe diversifié avec nos ateliers pour les femmes et filles avec nos [ateliers pour femmes et
+- Atteindre un groupe diversifié avec nos [ateliers pour femmes et
 filles](https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls/)
 et ateliers dans des régions mal desservies (par exemple
 [Cuba](https://forwards.github.io/blog/2018/07/07/havanar/), [le Sud de l'Afrique](https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/)).
@@ -83,9 +83,8 @@ d'espace de travail pour plus d'équité et de justice.
 ## Déclaration finale
 
 Nous travaillerons plus dur ou intensivement pour écouter et amplifier les voix des membres issus de minorités de nos communautés respectives partout dans le monde entier.
-Nous sommes investi·e·s dans le travail permanent et continu de briser les systèmes d'injustices; et de faire en sorte que ceux qui souffrent actuellement à cause de ces systèmes participent pleinement et occupent des postes de
+Nous sommes investi·e·s dans le travail permanent et continu de briser les systèmes d'injustice; et de faire en sorte que ceux qui souffrent actuellement à cause de ces systèmes participent pleinement et occupent des postes de
 responsabilité. Nous invitons, pressons chacun dans la communauté R à faire de même.
-Nous pressons chacun dans la communauté R à faire de même.
 
 Équipe principale de Forwards : Heather Turner, Noa Tamir, Tatjana
 Kecojevic, Emily Dodwell, Kevin O’Brien, Julie Josse.
