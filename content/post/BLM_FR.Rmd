@@ -55,37 +55,28 @@ filles](https://forwards.github.io/blog/2019/09/22/workshops-for-women-and-girls
 et ateliers dans des régions mal desservies (par exemple
 [Cuba](https://forwards.github.io/blog/2018/07/07/havanar/), [le Sud de l'Afrique](https://forwards.github.io/blog/2020/05/25/southern-africa-project-2020/)).
 
-Nous compernons qu'il y aurait beaucoup plus à faire pour soutenir et
-permettre la représentation des personnes noires, indigènes et de couleur
-et nous sommes engagés à faire notre part. Nous allons continuer à
+Nous comprenons qu'il y aurait beaucoup plus à faire pour soutenir et
+représenter directement les personnes noires, indigènes et de couleur
+et nous sommes engagés à faire notre part. Nous continuerons à
 développer des actions et des objectifs à long terme pour améliorer la
-représentation intersectionelle dans notre groupe de travail et de
-manière générale dans la communauté R.
+représentation intersectionelle dans notre groupe de travail et dans la grande communauté R.
 
 ## Un message de R-ladies :
 
-Même si la mission de R-Ladies et d'améliorer la diversité de genre dans
-la communauté R, nous considérons également les difficultés que les
-personnes noires subissent, et l'effet de l'intersectionnalité lorsqu'un
-membre s'identifie avec plusieurs groupes sous-représentés. R-ladies
-Global s'engage à améliorer comment l'organisation soutient les
-personnes noires, indigènes et de couleur au travers des actions suivantes :
+Bien que la mission des R-Ladies se concentre sur l'amélioration de la diversité du genre au sein de la communauté R, nous reconnaissons également à la fois les difficultés auxquelles les personnes noires font face, et l'effet combiné de l'intersectionnalité lorsqu'un membre s'identifie à plusieurs groupes sous-représentés. R-Ladies Global s'engage à améliorer comment l'organisation soutient les
+personnes noires, indigènes et de couleur à travers les actions suivantes :
 
-- Nous allons débuter et continuer une discussion autour d'actions
-concrètes pour promouvoir la justice sociale partout dans le monde à
-l'aide de chaînes dans nos espaces Slack. Nous nous engageons à écouter,
+- Nous entamerons et continuerons le dialogue autour d'actions
+concrètes pour promouvoir la justice sociale partout dans le monde via des chaînes y dédiées dans nos espaces de travail Slack.
+Nous nous engageons à écouter,
 faire preuve d'empathie et chercher à comprendre et transformer nos
-discussions en action. Nous nous engageons à faire de nos communautés
+discussions en action. Nous nous engageons à faire de nos espaces communautaires
 des endroits non seulement sûrs pour tous nos membres, mais aussi
-d'esapce de travail pour plus d'équité et de justice.
+d'espace de travail pour plus d'équité et de justice.
 
-- Nous allons incorporer dans notre site web une page dédiée de
-resources et d'informations pour les actions concrètes que nous, en tant
-qu'organisation et en tant qu'individus nous pouvons faire pour soutenir #BlackLivesMatter et d'autres mouvements de justice sociale.
+- Nous intégrerons à notre site web une page dédiée aux ressources et informations concernant les actions tangibles ou concrètes que nous, en tant qu'organisation, et en tant qu'individus pouvons entreprendre pour soutenir #BlackLivesMatter et d'autres mouvements pour la justice sociale.
 
-- Nous allons améliorer la représentation éthnique et raciale de
-l'équipe organisatrice de R-ladies Global de telle sorte que toutes les
-minorités intersectionnelles soient mieux représentées.
+- Nous améliorerons la représentation ethnique et raciale au sein de l'équipe organisatrice de R-ladies Global afin que les voix de toutes les minorités intersectionnelles soient mieux représentées.
 
 - Nous allons lancer des programmes pour soutenir nos membres (par
 exemple par des bourses de voyages, des bons pour des livres, des
