@@ -7,6 +7,7 @@ tags:
 - vacaciones
 - America del Sur
 - 2018
+- spanish
 categories:
 - r-ladies
 output: html_document
@@ -53,3 +54,5 @@ Mine y yo hablamos por Skype a finales de 2016. Ella tenía muy en claro lo fant
 La comunidad se expandió tan rápido que en menos de dos años, casi todos los países de América del Sur crearon al menos un capítulo de R-Ladies. La cereza de la torta fue [LatinR](http://latin-r.com/en), una conferencia latinoamericana para el uso de la R en I + D que fue creada por un grupo de R-Ladies latinoamericanas y ayudó a reunir a la comunidad regional. LatinR es sólo una de muchas otras grandes iniciativas sobre las cuales les contaremos en futuras publicaciones.
 
 Es difícil creer que todo esto comenzó con unas vacaciones de Mine en Sudamérica, pero así fue.
+
+Autoras: "Paloma, Mine, Laura"
