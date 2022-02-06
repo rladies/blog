@@ -67,12 +67,12 @@ usethis::pr_init("my_branch")
 
 ## Write a new blog post
 
-Use the blogdown addin in RStudio to create a new post. 
-`Addins` -> `New post` OR
+There are two ways to create a new post:
 
-```r
-blogdown::new_post()
-```
+1. Use the blogdown addin in RStudio to create a new post: `Addins` -> `New post`, OR
+ 
+2. `blogdown::new_post()` (See [documentation](https://pkgs.rstudio.com/blogdown/reference/hugo_cmd.html) for arguments to complete.)
+
 
 Complete fields with relevant information, following these guidelines to make
 posts easily discoverable.
@@ -123,6 +123,7 @@ Once submitted,
 - a new folder is created like `yyyy-mm-dd-your-post-title`
 
 - with an outline for your post named `index.Rmd`
+
 Add all files needed for the post (images, data files, gifs, etc.) should be 
 added to the new folder `content/post/yyyy-mm-dd-your-post-title`. 
 
@@ -140,7 +141,7 @@ up to the main repository for review.
 
 ```sh
 # Add the post
-git add content/post/2020-01-01-my-post
+git add content/post/yyyy-mm-dd-your-post-title
 
 # Add a commit message to the post
 git commit -m "my commit message"
