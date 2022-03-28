@@ -16,7 +16,7 @@ reward: no
 mathjax: no
 ---
 
-**R-Ladies wants to implement some new functionalities (using Javascript) for a re-implementation of their  website, whose source code may be found on [GitHub](https://github.com/rladies/website).**
+**The R-Ladies global organization wants to implement some new functionalities (using Javascript) for a re-implementation of their  website, whose source code may be found on [GitHub](https://github.com/rladies/website).**
 
 R-Ladies would like to invite you to prepare a proposal to accomplish the above task that includes timeline, cost, and deliverables. The following RFP includes a background of our organization and describes the purpose of the redesign, its desired functionality, and specific requests relating to the proposal. We understand that details may be subject to change upon vendor recommendation and/ or research of more optimal solutions. In your proposal, please feel free to suggest alternatives where noted.
 
