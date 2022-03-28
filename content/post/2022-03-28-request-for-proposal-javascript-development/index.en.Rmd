@@ -41,9 +41,6 @@ We ask prospective contractors to provide a preliminary budget for their proposa
 
 ## Timeline
 
-### RFP Release Date
-The date you’ve sent out the RFP. This lets vendors see how recent the request is.
-
 ### Proposal Deadline
 May 1<sup>st</sup>, 2022
 
