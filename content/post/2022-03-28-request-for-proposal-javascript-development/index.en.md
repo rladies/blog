@@ -1,5 +1,5 @@
 ---
-title: Request for Proposal - Javascript Development
+title: Request for Proposal - Javascript Development (Contract Work)
 author: Athanasia M. Mowinckel
 date: '2022-03-28'
 slug: []
@@ -16,7 +16,7 @@ reward: no
 mathjax: no
 ---
 
-**R-Ladies wants to implement some new functionalities (using Javascript) for a re-implementation of their  website, whose source code may be found on [GitHub](https://github.com/rladies/website).**
+**The R-Ladies global organization wants to implement some new functionalities (using Javascript) for a re-implementation of their  website, whose source code may be found on [GitHub](https://github.com/rladies/website).**
 
 R-Ladies would like to invite you to prepare a proposal to accomplish the above task that includes timeline, cost, and deliverables. The following RFP includes a background of our organization and describes the purpose of the redesign, its desired functionality, and specific requests relating to the proposal. We understand that details may be subject to change upon vendor recommendation and/ or research of more optimal solutions. In your proposal, please feel free to suggest alternatives where noted.
 
@@ -33,16 +33,13 @@ As a diversity initiative, the mission of R-Ladies is to achieve proportionate r
 
 
 ### Project Manager
-Athanasia Monika Mowinckel
+[Athanasia Monika Mowinckel](https://drmowinckels.io/)
 
 
 ## Budget
 We ask prospective contractors to provide a preliminary budget for their proposal. This can be provided as hourly rates with estimated amounts of hours to complete the project. Development work can be unpredictable, and we understand that estimated hours to completion might diverge somewhat from proposal estimates. 
 
 ## Timeline
-
-### RFP Release Date
-The date you’ve sent out the RFP. This lets vendors see how recent the request is.
 
 ### Proposal Deadline
 May 1<sup>st</sup>, 2022
