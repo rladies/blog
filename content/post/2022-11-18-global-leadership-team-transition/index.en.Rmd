@@ -1,7 +1,7 @@
 ---
 title: "Global Leadership Team Transition"
 author: "Shannon Pileggi"
-date: "2022-11-16"
+date: "2022-11-18"
 description: "After three years of service, Erin LeDell, Claudia Vitolo, and Hannah Frick are stepping down from the Global Leadership Team."
 tags: 
 - global
