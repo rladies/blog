@@ -21,6 +21,6 @@ In more recent years, R-Ladies survived and thrived throughout the pandemic by p
 We are forever grateful to Erin, Claudia, and Hannah for their thoughtful guidance supported by the many volunteers at all levels of the organization.
 
 We are pleased to share the new members of the Global Leadership Team: Athanasia Monika Mowinckel (Norway), Yanina Bellini Saibene (Argentina), Shannon Pileggi (United States), Riva Quiroga (Chile), and Averi Giudicessi (United States). 
-We are indebted to both Yanina and Saranjeet Kaur Bhogal (India), as well as the departing leadership team, for their work to ensure a smooth a smooth transition.
+We are indebted to both Yanina and Saranjeet Kaur Bhogal (India), as well as the departing leadership team, for their work to ensure a smooth transition.
 We are committed to the R-Ladies Global mission of encouraging, inspiring, and empowering people of minority genders in the R community, and we are honored to serve the global organization in this capacity.
 We are also committed to stay true to the promises made by the departing leadership team, and carry on their legacy to the best of our ability.
