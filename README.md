@@ -1,6 +1,9 @@
 # R-Ladies global blog
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/728e663f-18fb-432c-80d6-840c043ce50a/deploy-status)](https://app.netlify.com/sites/stoic-curran-741947/deploys)
+This repo is arhive, as its merged with our website repo now.
+[![status: archive](https://github.com/GIScience/badges/raw/master/status/archive.svg)](https://github.com/GIScience/badges#archive)
+
+
 
 ## Editors
 
